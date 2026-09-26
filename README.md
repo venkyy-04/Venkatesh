@@ -5,15 +5,9 @@
 </div>
 
 ```java
-public class AboutMe {
-    String name = "Bugide Venkatesh";
-    String role = "Java Backend Developer";
-    String company = "TAP Academy";
-    String location = "Bengaluru, India";
-    String[] techStack = {"Java", "Spring Boot", "Hibernate", "MySQL", "REST APIs"};
-    String[] currentlyLearning = {"System Design", "DSA"};
-    String status = "Open to entry-level Java Backend Developer roles";
-}
+<div align="center">
+  <img src="./assets/aboutme-eclipse.svg" alt="About Me" width="700"/>
+</div>
 ```
 
 <div align="center">
