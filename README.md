@@ -6,8 +6,18 @@
 
 ```java
 <div align="center">
+
+# Bugide Venkatesh
+
+</div>
+
+<div align="center">
   <img src="./assets/aboutme-eclipse.svg" alt="About Me" width="700"/>
 </div>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/bugide-venkatesh-069844190">...
 ```
 
 <div align="center">
