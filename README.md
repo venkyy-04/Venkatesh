@@ -1,76 +1,94 @@
-<h1 align="center">Hi 👋, I'm Bugide Venkatesh</h1>
-<h3 align="center">Java Backend Developer | Spring Boot | Microservices | REST APIs | MySQL</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/venkyy-04"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:bugudevenkatesh0414@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <img src="https://komarev.com/ghpvc/?username=venkyy-04&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Venkatesh;Java+Backend+Developer;Spring+Boot+%7C+Microservices+%7C+REST+APIs" alt="Typing SVG" />
+
+<p>
+  <a href="https://www.linkedin.com/in/bugide-venkatesh-069844190"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:bugudevenkatesh0414@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/venkyy-04"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
+
+<img src="https://komarev.com/ghpvc/?username=venkyy-04&label=Profile%20Views&color=2F80ED&style=flat" alt="profile views"/>
+
+</div>
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 MCA Graduate (June 2026) from Rajeev Gandhi Memorial College of Engineering & Technology
-- 💼 Currently working as a **Backend Developer Intern** at **TAP Academy**, building production-style REST APIs and database-driven microservices in an Agile/Scrum environment
-- 🛠️ Skilled in **Java, Spring Boot, Spring MVC, Spring Security, Hibernate/JPA, MySQL**, and Microservices Architecture
-- 🌱 Currently sharpening my **DSA** and **System Design** fundamentals
-- 👨‍💻 15+ RESTful backend services engineered and maintained across live full-stack projects
-- 🔭 Seeking an entry-level **Java Developer / Java Backend Developer** role
-- ⚡ Fun fact: I enjoy Competitive Programming and contributing to Open-Source
+- 🎓 MCA Graduate (June 2026) — Rajeev Gandhi Memorial College of Engineering & Technology
+- 💼 Backend Developer Intern at **TAP Academy** — building production-style REST APIs & database-driven microservices
+- 🛠️ Focused on **Java, Spring Boot, Spring Security, Hibernate/JPA, MySQL**, Microservices Architecture
+- 👨‍💻 Shipped 15+ RESTful backend services across live full-stack projects
+- 🔭 Looking for an entry-level **Java Backend Developer** role
+- ⚡ Enjoy Competitive Programming and Open-Source
 
 ---
 
 ### 🧰 Tech Stack
 
-**Languages & Core**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,mysql,git,github,docker,idea,postman,js,html,css,react,py&perline=8" />
+</p>
 
-**Frameworks & Libraries**
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+<div align="center">
 
-**Databases & Tools**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+| Category | Skills |
+|---|---|
+| **Languages** | Java, JavaScript, Python |
+| **Frameworks** | Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Hibernate ORM |
+| **Frontend** | HTML5, CSS3, React.js |
+| **Databases** | MySQL (Schema Design, Indexing, Query Optimization) |
+| **Testing / API** | JUnit, Mockito, Postman, Swagger / OpenAPI |
+| **Tools** | Git, GitHub, GitLab, Docker, Maven, IntelliJ IDEA, Eclipse |
+| **Practices** | Microservices Architecture, REST API Design, Agile/Scrum, CI/CD basics |
 
-**Testing & API**
-![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+</div>
 
 ---
 
 ### 📌 Featured Projects
 
-#### 🌍 [My Travel Wishlist](https://github.com/venkyy-04)
-Full-stack Java web application for managing destinations, trip status, and budgets.
-- Designed a normalized MySQL schema and built 15+ REST API endpoints with Spring Boot & Spring MVC
-- Implemented role-based authentication with Spring Security, securing 100% of API endpoints
-- Integrated a JavaScript frontend with backend REST APIs; used Hibernate/JPA to eliminate boilerplate JDBC
+<table>
+<tr>
+<td width="50%">
 
-**Tech:** Java · Spring Boot · Spring MVC · Spring Security · Hibernate · JPA · MySQL · JavaScript
+**🌍 [My Travel Wishlist](https://github.com/venkyy-04)**
 
-#### 🏥 Hospital Management System
-Manages patient and laboratory information with a layered architecture (Controller → Service → Repository → Entity).
-- Built CRUD operations and RESTful APIs using Spring Data JPA and Hibernate for reliable persistence
+Full-stack Java web app to manage destinations, trip status, and budgets.
+- Built 15+ REST endpoints with normalized MySQL schema
+- Role-based auth with Spring Security — 100% endpoints secured
+- JS frontend integrated with backend REST APIs via Hibernate/JPA
 
-**Tech:** Java · Spring Boot · Spring Data JPA · Hibernate · MySQL
+`Java` `Spring Boot` `Spring Security` `Hibernate` `MySQL` `JavaScript`
 
-#### 🛡️ [Optimized Stacking Classifier for Intrusion Detection](https://github.com/venkyy-04)
-Network intrusion detection system using a stacking ensemble (Bagging + Boosting) on the UNSW-NB15 dataset.
-- Improved attack-detection accuracy and reduced false positives via targeted preprocessing & feature selection
-- Evaluated performance using precision, recall, and F1-score; visualized results in Matplotlib
+</td>
+<td width="50%">
 
-**Tech:** Python · Scikit-learn · Pandas · NumPy · Matplotlib
+**🏥 Hospital Management System**
+
+Patient & lab management system with layered architecture.
+- CRUD + REST APIs via Controller → Service → Repository → Entity
+- Spring Data JPA + Hibernate for reliable persistence
+
+`Java` `Spring Boot` `Spring Data JPA` `Hibernate` `MySQL`
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+**🛡️ Optimized Stacking Classifier for Intrusion Detection**
+
+Network intrusion detection using a Bagging + Boosting stacking ensemble on UNSW-NB15.
+- Improved attack-detection accuracy, reduced false positives via targeted preprocessing & feature selection
+- Evaluated with precision, recall, F1-score; visualized results in Matplotlib
+
+`Python` `Scikit-learn` `Pandas` `NumPy` `Matplotlib`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -78,21 +96,18 @@ Network intrusion detection system using a stacking ensemble (Bagging + Boosting
 
 **Backend Developer Intern — TAP Academy**
 - Engineered and maintained 15+ RESTful backend services in Java & Spring Boot
-- Designed CRUD APIs backed by MySQL, improving query response time and reliability through schema design, joins, and indexing
-- Unit-tested endpoints with JUnit & Mockito; collaborated in Agile/Scrum with sprint planning and code reviews
-- Validated and debugged REST APIs with Postman, reducing production defects
+- Designed CRUD APIs backed by MySQL; improved query response time via schema design, joins, indexing
+- Unit-tested endpoints with JUnit & Mockito; worked in Agile/Scrum sprints with peer code reviews
+- Validated/debugged APIs with Postman, reducing production defects
 
 ---
 
 ### 🎓 Education
 
-- **Master of Computer Applications (MCA)** — CGPA 7.59, Rajeev Gandhi Memorial College of Engineering & Technology, Nandyala (June 2026)
+- **MCA** — CGPA 7.59, Rajeev Gandhi Memorial College of Engineering & Technology, Nandyala (June 2026)
 - **B.Com (Computers)** — CGPA 7.0, St. Joseph's Degree College, Kurnool (May 2023)
 
-### 📜 Certifications
-
-- NPTEL — Cloud Computing
-- NPTEL — Introduction to Internet of Things
+**Certifications:** NPTEL Cloud Computing · NPTEL Introduction to IoT
 
 ---
 
@@ -102,19 +117,12 @@ Network intrusion detection system using a stacking ensemble (Bagging + Boosting
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=venkyy-04&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=venkyy-04&layout=compact&theme=tokyonight" />
 </p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=venkyy-04&theme=tokyonight" alt="streak stats"/>
 </p>
 
 ---
 
-### 📫 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/venkyy-04"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:bugudevenkatesh0414@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/venkyy-04"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
-<p align="center"><i>Open to entry-level Java Backend Developer opportunities 🚀</i></p>
+<div align="center">
+<i>Open to entry-level Java Backend Developer opportunities 🚀</i>
+</div>
