@@ -5,11 +5,6 @@
 </div>
 
 ```java
-<div align="center">
-
-# Bugide Venkatesh
-
-```java
 public class AboutMe {
     String name = "Bugide Venkatesh";
     String role = "Java Backend Developer";
@@ -19,11 +14,6 @@ public class AboutMe {
     String[] currentlyLearning = {"System Design", "DSA"};
     String status = "Open to entry-level Java Backend Developer roles";
 }
-```
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/bugide-venkatesh-069844190">...
 ```
 
 <div align="center">
